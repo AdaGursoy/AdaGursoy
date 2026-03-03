@@ -10,9 +10,9 @@
 role: Full Stack & AI Developer
 interests:
   Full Stack Development
-    - Frontend: React.js, Next.js, TypeScript, TailwindCSS
-    - Backend: Node.js, Express.js, FastAPI, GraphQL
-    - Databases: PostgreSQL, MongoDB, Firebase
+    - Frontend: React.js, Next.js, Vue, TypeScript, TailwindCSS
+    - Backend: Python, Node.js, PHP, Express.js, FastAPI, GraphQL
+    - Databases: PostgreSQL, MongoDB, Firebase, Supabase
     - DevOps: Docker, AWS, Vercel, CI/CD
     - Version Control: Git, GitHub
 
