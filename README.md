@@ -1,5 +1,5 @@
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=neonflux-io&label=👁️&color=0e75b6&style=flat" alt="CodeByStella" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=AdaGursoy&label=👁️&color=0e75b6&style=flat" alt="CodeByStella" />
 </div>
 
 <h1 align="center">Hello, welcome to my corner of GitHub.</h1>
