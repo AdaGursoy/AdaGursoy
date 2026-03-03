@@ -1,133 +1,55 @@
-<!-- HEADER WITH TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F94DFF&center=true&vCenter=true&width=450&lines=Hi+I'm+Full+Stack+Developer+%F0%9F%9A%80;Blockchain,+Web3+Developer" />
-</p>
+<div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=neonflux-io&label=👁️&color=0e75b6&style=flat" alt="CodeByStella" />
+</div>
+
+<h1 align="center">Hello, welcome to my corner of GitHub.</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+    <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions" alt="Typing SVG" />
+</p>
+<p align="center">  
+    <a href="https://github.com/AdaGursoy?tab=achievements"><img src="https://github-trophies.vercel.app/?username=neonflux-io&theme=onestar&no-frame=true&column=6&row=2"   alt="neonflux-io"/></a>
 </p>
 
----
-
-### 🧙‍♂️ Who Am I?
-
-```yaml
-role: Full Stack Developer
-interests:
-  Full Stack Development
-  - Frontend: React.js, Next.js, TypeScript, TailwindCSS
-  - Backend: Node.js, Express.js, Nest.js, GraphQL, Python
-  - Databases: PostgreSQL, MongoDB, Firebase
-  - DevOps: Docker, AWS, Vercel
-  - Version Control: Git, GitHub, CI/CD
 
 
-```
-🛠️ Tech Stack
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="55" height="55">
-      </a><br>Javascript
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=solidity" target="_blank">
-        <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity">
-      </a><br>Solidity
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=rust" target="_blank">
-        <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust">
-      </a><br>Rust
-    </td>
-    <td align="center" width="90">
-      <a href="https://techstack-generator.vercel.app/react-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55">
-      </a><br>React
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=nextjs" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js">
-      </a><br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum"><br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" alt="Solana"><br>Solana
-    </td>
-    <td align="center" width="90">
-      <a href="https://techstack-generator.vercel.app/python-icon.svg" target="_blank">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MySQL" width="55" height="55">
-      </a><br>Python
-    </td>
-    <td align="center" width="90">
-      <a href="https://techstack-generator.vercel.app/ts-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="55" height="55">
-      </a><br>Typescript
-    </td>
-    
-  </tr>
+## 🛠️ Languages & Tools
 
-  <tr>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=firebase" target="_blank">
-        <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase">
-      </a><br>Firebase
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=mongodb" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB">
-      </a><br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <a href="https://techstack-generator.vercel.app/mysql-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55">
-      </a><br>MySQL
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=postgres" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL">
-      </a><br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=supabase" target="_blank">
-        <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase">
-      </a><br>Supabase
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=materialui" target="_blank">
-        <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MaterialUI">
-      </a><br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=tailwind" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind">
-      </a><br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <a href="https://skillicons.dev/icons?i=threejs" target="_blank">
-        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js">
-      </a><br>Three.js
-    </td>
-    <td align="center" width="90">
-      <a href="https://techstack-generator.vercel.app/restapi-icon.svg" target="_blank">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55">
-      </a><br>REST API
-    </td>
-  </tr>
-</table>
+<div align="center">
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white" />
+<img src="https://img.shields.io/badge/NFT-FF007A?style=for-the-badge&logo=nft&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-F9A825?style=for-the-badge&logo=webgl&logoColor=white" />
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-%23CC342D.svg?&logo=rust&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" />
+</div>
 
+<br/>
 
-📊 GitHub Stats (Gradient Mode)
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hikaru-saito-dev&show_icons=true&theme=react&hide_border=true&border_radius=10" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hikaru-saito-dev&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
-🏆 Trophy Wall
-<a href="https://github.com/hikaru-saito-dev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=hikaru-saito-dev&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
-
-
-<p align="center"><i>"Don’t just code it. Craft it."</i></p> <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> </p> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hikaru-saito-dev/hikaru-saito-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hikaru-saito-dev/hikaru-saito-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hikaru-saito-dev/hikaru-saito-dev/output/pacman-contribution-graph.svg">
-</picture><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61D6,8E2DE2&height=100&section=footer"/> </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
