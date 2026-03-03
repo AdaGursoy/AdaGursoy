@@ -9,6 +9,7 @@
     <a href="https://github.com/AdaGursoy?tab=achievements"><img src="https://github-trophies.vercel.app/?username=AdaGursoy&theme=radical&no-frame=true&column=6&row=2&margin-w=15&margin-h=15" alt="Trophies" /></a>
 </p>
 ## 🛠️ Tech Stack — What I Ship With
+
 <div align="center">
     <!-- AI / ML -->
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -44,21 +45,24 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 <br/>
+
 ## 🔥 GitHub Stats & Activity
+
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdaGursoy&theme=radical&hide_border=true" alt="Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdaGursoy&theme=radical&hide_border=true" alt="Streak" width="60%" />
 </p>
 
 ## 🌱 Currently Exploring / Building
+
 - **Agentic AI workflows** — autonomous agents with tools + memory
 - **Multimodal RAG systems** (text + image + pdf + audio)
 - **Edge AI** inference (ONNX, TensorRT, WebLLM)
 - **Full-stack TypeScript monorepos** (Turborepo + Next.js + tRPC / FastAPI)
 - Open-source contributions in **LangGraph**, **CrewAI**, **LlamaIndex**
 
-<p align="center">
-  <img src="https://media.githubusercontent.com/media/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600"/>
-</p>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmNjM2MzbHp5ajMyY25za3N2b3ljNWo5dHExZGQyZDdmOGM0NTZ3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600" />
+</div>
 
 ---
 Thanks for stopping by! Feel free to explore my repos — stars, forks, issues, and PRs are always welcome ⭐
