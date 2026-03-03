@@ -4,6 +4,31 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=600&center=true&random=false&width=1000&height=70&lines=Full-Stack+Developer+%7C+AI+%26+Machine+Learning+Engineer;Building+scalable+apps+%26+intelligent+systems;LLMs+%7C+Agents+%7C+RAG+%7C+Computer+Vision;Python+%26+TypeScript+%E2%9C%94+Always+shipping" alt="Typing SVG" />
 </p>
 
+## 🧙‍♂️ Who Am I?
+
+```yaml
+role: Full Stack & AI Developer
+interests:
+  Full Stack Development
+    - Frontend: React.js, Next.js, TypeScript, TailwindCSS
+    - Backend: Node.js, Express.js, FastAPI, GraphQL
+    - Databases: PostgreSQL, MongoDB, Firebase
+    - DevOps: Docker, AWS, Vercel, CI/CD
+    - Version Control: Git, GitHub
+
+  Artificial Intelligence & Machine Learning
+    - Core: Machine Learning, Deep Learning, NLP, Computer Vision
+    - Frameworks: PyTorch, TensorFlow, Scikit-learn
+    - LLM & GenAI: OpenAI API, LangChain, LlamaIndex, RAG Systems
+    - Data: Pandas, NumPy, Data Pipelines, Feature Engineering
+    - MLOps: Model Deployment, Monitoring, Docker, Kubernetes
+
+  Applied AI Systems
+    - AI-powered Web Apps
+    - Chatbots & Assistants
+    - Recommendation Systems
+    - Automation & Intelligent Workflows
+```
 
 ## 🛠️ Tech Stack — What I Ship With
 
@@ -52,17 +77,7 @@
     <img src="https://stats.valentinchmara.com/api?username=AdaGursoy&show_icons=true&theme=github_dark&hide=contribs" alt="Streak" width="60%" />
 </p>
 
-## 🌱 Currently Exploring / Building
 
-- **Agentic AI workflows** — autonomous agents with tools + memory
-- **Multimodal RAG systems** (text + image + pdf + audio)
-- **Edge AI** inference (ONNX, TensorRT, WebLLM)
-- **Full-stack TypeScript monorepos** (Turborepo + Next.js + tRPC / FastAPI)
-- Open-source contributions in **LangGraph**, **CrewAI**, **LlamaIndex**
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmNjM2MzbHp5ajMyY25za3N2b3ljNWo5dHExZGQyZDdmOGM0NTZ3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="600" />
-</div>
 
 ---
 Thanks for stopping by! Feel free to explore my repos — stars, forks, issues, and PRs are always welcome ⭐
