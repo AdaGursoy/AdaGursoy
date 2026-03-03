@@ -8,6 +8,7 @@
 <p align="center">
     <a href="https://github.com/AdaGursoy?tab=achievements"><img src="https://github-trophies.vercel.app/?username=AdaGursoy&theme=radical&no-frame=true&column=6&row=2&margin-w=15&margin-h=15" alt="Trophies" /></a>
 </p>
+
 ## 🛠️ Tech Stack — What I Ship With
 
 <div align="center">
