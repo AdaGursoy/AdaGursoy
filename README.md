@@ -1,13 +1,9 @@
-<div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=AdaGursoy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+
 <h1 align="center">Hey there! Welcome to my digital lab 🚀</h1>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=600&center=true&random=false&width=1000&height=70&lines=Full-Stack+Developer+%7C+AI+%26+Machine+Learning+Engineer;Building+scalable+apps+%26+intelligent+systems;LLMs+%7C+Agents+%7C+RAG+%7C+Computer+Vision;Python+%26+TypeScript+%E2%9C%94+Always+shipping" alt="Typing SVG" />
 </p>
-<p align="center">
-    <a href="https://github.com/AdaGursoy?tab=achievements"><img src="https://github-trophies.vercel.app/?username=AdaGursoy&theme=radical&no-frame=true&column=6&row=2&margin-w=15&margin-h=15" alt="Trophies" /></a>
-</p>
+
 
 ## 🛠️ Tech Stack — What I Ship With
 
@@ -49,8 +45,11 @@
 
 ## 🔥 GitHub Stats & Activity
 
+<div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=AdaGursoy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdaGursoy&theme=radical&hide_border=true" alt="Streak" width="60%" />
+    <img src="https://stats.valentinchmara.com/api?username=AdaGursoy&show_icons=true&theme=github_dark&hide=contribs" alt="Streak" width="60%" />
 </p>
 
 ## 🌱 Currently Exploring / Building
