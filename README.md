@@ -1,55 +1,64 @@
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=AdaGursoy&label=👁️&color=0e75b6&style=flat" alt="CodeByStella" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=AdaGursoy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
+<h1 align="center">Hey there! Welcome to my digital lab 🚀</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=600&center=true&random=false&width=1000&height=70&lines=Full-Stack+Developer+%7C+AI+%26+Machine+Learning+Engineer;Building+scalable+apps+%26+intelligent+systems;LLMs+%7C+Agents+%7C+RAG+%7C+Computer+Vision;Python+%26+TypeScript+%E2%9C%94+Always+shipping" alt="Typing SVG" />
+</p>
+<p align="center">
+    <a href="https://github.com/AdaGursoy?tab=achievements"><img src="https://github-trophies.vercel.app/?username=AdaGursoy&theme=radical&no-frame=true&column=6&row=2&margin-w=15&margin-h=15" alt="Trophies" /></a>
+</p>
+## 🛠️ Tech Stack — What I Ship With
+<div align="center">
+    <!-- AI / ML -->
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-00B0FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-4285F4?style=for-the-badge&logo=huggingface&logoColor=white" />
+</div>
+<div align="center">
+    <!-- Frontend -->
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</div>
+<div align="center">
+    <!-- Backend / Full-Stack -->
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+<div align="center">
+    <!-- Cloud & DevOps -->
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</div>
+<br/>
+## 🔥 GitHub Stats & Activity
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdaGursoy&theme=radical&hide_border=true" alt="Streak" width="48%" />
+</p>
 
-<h1 align="center">Hello, welcome to my corner of GitHub.</h1>
+## 🌱 Currently Exploring / Building
+- **Agentic AI workflows** — autonomous agents with tools + memory
+- **Multimodal RAG systems** (text + image + pdf + audio)
+- **Edge AI** inference (ONNX, TensorRT, WebLLM)
+- **Full-stack TypeScript monorepos** (Turborepo + Next.js + tRPC / FastAPI)
+- Open-source contributions in **LangGraph**, **CrewAI**, **LlamaIndex**
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=MV+Boli&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Automation+%26+Telegram+Bots+%7C+Smart+workflows+%26+mini+apps;Casino+%26+Betting+Sites+%7C+Secure%2C+high-traffic+platforms;Smart+Contracts+%26+dApps+%7C+Decentralized%2C+trustless+solutions" alt="Typing SVG" />
-</p>
-<p align="center">  
-    <a href="https://github.com/AdaGursoy?tab=achievements"><img src="https://github-trophies.vercel.app/?username=AdaGursoy&theme=onestar&no-frame=true&column=6&row=2"   alt="AdaGursoy"/></a>
+  <img src="https://media.githubusercontent.com/media/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600"/>
 </p>
 
-
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-<img src="https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white" />
-<img src="https://img.shields.io/badge/NFT-FF007A?style=for-the-badge&logo=nft&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-F9A825?style=for-the-badge&logo=webgl&logoColor=white" />
-</div>
-<div align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=fff" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-%23CC342D.svg?&logo=rust&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" />
-</div>
-
-<br/>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+---
+Thanks for stopping by! Feel free to explore my repos — stars, forks, issues, and PRs are always welcome ⭐
